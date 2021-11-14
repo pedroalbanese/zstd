@@ -1,5 +1,5 @@
 # zstd(2)
-[![ISC License](http://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/pedroalbanese/zstd/blob/master/LICENSE.md) 
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/zstd/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/zstd?status.png)](http://godoc.org/github.com/pedroalbanese/zstd)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/zstd)](https://goreportcard.com/report/github.com/pedroalbanese/zstd)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/zstd)](https://golang.org)
@@ -22,6 +22,6 @@ With no FILE, or when FILE is -, read standard input.</pre>
 
 ## License
 
-This project is licensed under the Apache License.
+This project is licensed under the ISC License.
 
 ##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Research Lab.
