@@ -21,7 +21,7 @@ Compress or uncompress FILE (by default, compress FILE in-place).
 
 With no FILE, or when FILE is -, read standard input.</pre>
 
-#### Check also [All-in-One Compress](https://github.com/pedroalbanese/aio):
+#### Check also: [All-in-One Compress](https://github.com/pedroalbanese/aio)
 
 ## License
 
